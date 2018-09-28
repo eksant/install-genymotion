@@ -33,8 +33,8 @@ Installing for current user only. To install for all users, restart this install
 Installing to folder [/home/fabian/Downloads/genymotion]. Are you sure [y/n] ?
 
 - Trying to find VirtualBox toolset .................... OK (Valid version of VirtualBox found: 5.1.18r114002)
- - Extracting files ..................................... OK (Extract into: [/home/fabian/Downloads/genymotion])
- - Installing launcher icon ............................. OK
+ - Extracting files .................................... OK (Extract into: [/home/fabian/Downloads/genymotion])
+ - Installing launcher icon ............................ OK
 
 Installation done successfully.
 
